@@ -1,1 +1,1 @@
-0x00 c - hello, world readme file
+0x00 . c heelo, worlid
